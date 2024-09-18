@@ -10,7 +10,7 @@ Check out the live site: [PortaPower Hub](https://liamlungu.github.io/PortaPower
 You can read the blog article that describes the entire project development process [here](#link-to-your-blog-post).
 
 ### **Author**
-- LinkedIn: [Liam Lungu](https://www.linkedin.com/in/liam-lungu)  
+- LinkedIn: [Liam Lungu](https://www.linkedin.com/in/liam-lungu-041780297/)  
 
 ---
 
